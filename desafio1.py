@@ -20,4 +20,4 @@ else:                # Se XP for maior ou igual a 10001 = Radiante.
     nivel = "Radiante"
 
 # Saída
-print("O Herói {0} está no nível {1}.".format(nome,nivel))
+print("O Herói {} está no nível {}.".format(nome,nivel))
