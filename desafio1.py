@@ -21,3 +21,5 @@ elif xpHeroi >= 10001: # Se XP for maior ou igual a 10001 = Radiante.
 
 # Saída
 print("O Herói {} está no nível {}.".format(nome,nivel))
+
+print("O Herói {} está no nível {}.".format(nome,nivel))
